@@ -1306,6 +1306,23 @@ welcome
   }
 }
 
+@media (max-width: 400px){
+  .welcome-area .home-img-group .home-img.img-4{
+    width: 90%;
+    top: 9rem;
+    right: 2rem;
+  }
+  .welcome-area .home-img-group .home-img.img-2{
+    display: none;
+  }
+  .navbarh11{
+    position: relative;
+    top: -13rem;
+    left: 2rem;
+    width: 18rem;
+    text-align: center;
+  }
+}
 /* 
 ---------------------------------------------
 features
